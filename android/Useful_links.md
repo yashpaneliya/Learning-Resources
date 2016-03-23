@@ -29,3 +29,9 @@
 - [Butter Knife](http://jakewharton.github.io/butterknife/) - View "injection" library for Android.
 - [RoboGuice](https://github.com/roboguice/roboguice) - Dependency injection framework for Android.
 - [AndroidAnnotations](https://github.com/excilys/androidannotations) - Java annotations with dependency injection at compile time.
+
+### Image loading
+- [Picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android, powered by Square
+- [Glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling, recommended by google.
+- [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Asynchronous, out of the box loading and caching of images.
+- [Fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use, powered by facebook.
